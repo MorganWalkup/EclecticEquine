@@ -224,6 +224,18 @@ img {
 	box-shadow: 2px 2px 3px #D3D3D3;
 }
 
+#bio {
+	text-indent: 20px;
+	padding-top: 20px;
+}
+
+@media screen and (max-width: 770px)
+{
+	#bio {
+		font-size: 10px;
+	}
+}
+
 #thumbnails {
 	margin: 0 auto;
 	margin-top: 60px;
