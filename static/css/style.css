@@ -232,7 +232,7 @@ img {
 @media screen and (max-width: 770px)
 {
 	#bio {
-		font-size: 10px;
+		font-size: 80%;
 	}
 }
 
