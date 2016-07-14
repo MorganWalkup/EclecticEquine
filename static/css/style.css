@@ -219,13 +219,13 @@ img {
 }
 
 #splash img:first-of-type {
-	width: 42%;
+	width: 40%;
 	height: auto;
 	box-shadow: 2px 2px 3px #D3D3D3;
 }
 
 #splash img:nth-of-type(2) {
-	width: 57%;
+	width: 60%;
 	height: auto;
 	box-shadow: 2px 2px 3px #D3D3D3;
 }
