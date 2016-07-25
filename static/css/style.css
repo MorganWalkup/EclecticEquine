@@ -53,7 +53,6 @@ body {
 #headeritems {
 	display: block;
 	position: relative;
-	overflow: hidden;
 	right: 0px;
 	width: 100%;
 	overflow: visible;
@@ -64,6 +63,11 @@ body {
 	float: left;
 	padding: 6px 10px;
 	margin: 0 5px;
+}
+
+#logo img {
+	height: 30px;
+	width: auto;
 }
 
 #nav
