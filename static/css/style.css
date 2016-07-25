@@ -243,7 +243,6 @@ img {
 	padding-top: 10px;
 	padding-left: 20px;
 	padding-right: 20px;
-	margin-bottom: -10px;
 }
 
 @media screen and (max-width: 770px)
@@ -257,6 +256,10 @@ img {
 	margin: 0 auto;
 	margin-top: 60px;
 	text-align: center;
+}
+
+#info+#thumbnails {
+	margin-top:50px;
 }
 
 #thumbnails a {
