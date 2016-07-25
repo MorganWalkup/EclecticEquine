@@ -65,15 +65,27 @@ body {
 	margin: 0 5px;
 }
 
+#logo {
+	display: table;
+}
+
 #logo img {
 	height: 30px;
 	width: auto;
+	margin-right: 5px;
+}
+
+#logo h1 {
+	line-height: 30px;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 #nav
 {
 	/* container */
 	float: right;
+	margin-top: 7px;
 }
 	#nav a
 	{
