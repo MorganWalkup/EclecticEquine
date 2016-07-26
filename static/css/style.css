@@ -134,7 +134,7 @@ body {
 
 
 /* Mobile Navigation */
-@media screen and (max-width: 770px)
+@media screen and (max-width: 780px)
 {
 
 	#header {
@@ -235,13 +235,19 @@ img {
 }
 
 #splash img:first-of-type {
-	width: 41.2%;
+	width: 28.4%;
 	height: auto;
 	box-shadow: 2px 2px 3px #D3D3D3;
 }
 
 #splash img:nth-of-type(2) {
-	width: 57.4%;
+	width: 39.6%;
+	height: auto;
+	box-shadow: 2px 2px 3px #D3D3D3;
+}
+
+#splash img:nth-of-type(3) {
+	width: 29.8%;
 	height: auto;
 	box-shadow: 2px 2px 3px #D3D3D3;
 }
